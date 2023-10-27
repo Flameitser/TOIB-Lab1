@@ -29,7 +29,6 @@
 
 
 ## Создание клиента
-![image](https://github.com/Flameitser/TOIB-lab1/assets/65831927/6615689b-67e0-4e7a-bcaf-ded2af447301)
 ![image](https://github.com/Flameitser/TOIB-lab1/assets/65831927/a37f4d1d-3951-4643-9588-e475f6cb7e5a)
 
 
