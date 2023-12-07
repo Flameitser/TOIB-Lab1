@@ -36,9 +36,6 @@
 ![image](https://github.com/Flameitser/TOIB-lab1/assets/65831927/a1517420-08ee-4753-9bf8-3263d424f9ef)
 
 
-## Страница настройки при попытке аутентифицироваться
-![image](https://github.com/Flameitser/TOIB-lab1/assets/65831927/28062324-b31e-45b0-8dd6-48fead52ccba)
-
 
 ## Страница ввода одноразового кода
 ![image](https://github.com/Flameitser/TOIB-lab1/assets/65831927/84f4f3e1-cc0c-45e9-8ea3-ec5449802ea0)
